@@ -11,7 +11,7 @@
 
 	<div id="wrapper">
 
-		<h1>Blog</h1>
+		<h1>Sean is Gay</h1>
 		<hr />
 
 		<?php
